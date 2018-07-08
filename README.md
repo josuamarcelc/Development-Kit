@@ -2,7 +2,8 @@
 
 ### Applications & Developer Tools
 * [SubLime 3] - A sophisticated text editor for code, markup and prose.
-* [XAMPP] - The most popular PHP development environment. <details>
+* [XAMPP] - The most popular PHP development environment. 
+<details>
 <summary>License Key - SublimeText 3 Build 3143</summary>
 
 ```c
