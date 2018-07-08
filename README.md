@@ -5,7 +5,6 @@
 * [SubLime 3] - A sophisticated text editor for code, markup and prose.
 <details>
 <summary>License Key - SublimeText 3 Build 3143</summary>
-<p>
 ```c
 —– BEGIN LICENSE —–
 ZYNGA INC.
@@ -21,7 +20,6 @@ E627DDBA 960A2153 69A2D98A C87C0607
 1342224D 44D90641 33A3B9F2 46AADB8F
 —— END LICENSE ——
 ```
-</p>
 </details>
 
 * [XAMPP] - The most popular PHP development environment.
