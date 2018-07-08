@@ -5,6 +5,7 @@
 * [SubLime 3] - A sophisticated text editor for code, markup and prose.
 <details>
 <summary>License Key - SublimeText 3 Build 3143</summary>
+
 ```c
 —– BEGIN LICENSE —–
 ZYNGA INC.
@@ -20,6 +21,7 @@ E627DDBA 960A2153 69A2D98A C87C0607
 1342224D 44D90641 33A3B9F2 46AADB8F
 —— END LICENSE ——
 ```
+
 </details>
 
 * [XAMPP] - The most popular PHP development environment.
@@ -30,7 +32,7 @@ E627DDBA 960A2153 69A2D98A C87C0607
 * [Docker] - Computer program that performs operating-system-level virtualization also known as containerization.
 * [PostGreSQL WorkBench] - A powerful, open source object-relational database system.
 * [MySQL WorkBench] - The world's most popular open source database.
-* [JIRA] - An agile project management tool that supports any agile methodology, be it scrum, kanban, or your own unique flavor.
+* [JIRA] - An agile project management tool supports any agile methodology, scrum, kanban, or your own unique flavor.
 * [Jenkins] - The leading open source automation server.
 
 
