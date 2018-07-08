@@ -1,4 +1,4 @@
-# josuamarcelc Development Kit
+# josuamarcelc - Web Development Kit
 
 ### Applications & Developer Tools
 * [SubLime 3] - A sophisticated text editor for code, markup and prose.
