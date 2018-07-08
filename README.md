@@ -19,6 +19,7 @@ E627DDBA 960A2153 69A2D98A C87C0607
 1342224D 44D90641 33A3B9F2 46AADB8F
 </p>
 </details>
+
 * [XAMPP] - The most popular PHP development environment.
 * [Composer] - A tool for dependency management in PHP.
 * [node.js] - A JavaScript runtime built on Chrome's V8 JavaScript engine.
