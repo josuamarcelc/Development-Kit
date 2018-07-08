@@ -49,6 +49,7 @@
 * [PHP Code Standard Fixer] - Tool fixes your code to follow standards.
 * [GrumPHP] - A PHP code-quality tool
 * [Sweet Alert] - Makes popup messages easy and pretty.
+* [UniREST] - Lightweight HTTP Request Client Libraries.
 
 
 <details>
@@ -102,3 +103,4 @@ E627DDBA 960A2153 69A2D98A C87C0607
    [GitLab]: <https://gitlab.com/>
    [BitBucket]: <https://bitbucket.org/>
    [Jenkins]: <https://jenkins.io/>
+   [uniREST]: <http://unirest.io/>
