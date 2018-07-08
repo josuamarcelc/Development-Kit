@@ -1,7 +1,6 @@
 # josuamarcelc Development Kit
 
 ### Applications & Developer Tools
-
 * [SubLime 3] - A sophisticated text editor for code, markup and prose.
 * [XAMPP] - The most popular PHP development environment.
 * [Composer] - A tool for dependency management in PHP.
@@ -13,8 +12,6 @@
 * [MySQL WorkBench] - The world's most popular open source database.
 * [JIRA] - An agile project management tool supports any agile methodology, scrum, kanban, or your own unique flavor.
 * [Jenkins] - The leading open source automation server.
-
-
 * [Git Kraken] - The legendary Git GUI client for Windows, Mac and Linux.
 * [GitHub] - The world's leading software development platform.
 * [GitLab] - The leading integrated product for modern software development.
