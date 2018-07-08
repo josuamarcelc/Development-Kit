@@ -1,5 +1,20 @@
 # josuamarcelc - Web Development Kit
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][6.1]][6]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: http://www.twitter.com/josuamarcelc
+[2]: http://www.facebook.com/JMCorp
+[3]: https://plus.google.com/+JosuaMarcelC
+[6]: http://www.github.com/josuamarcelc
+
 ### Applications & Developer Tools
 * [SubLime 3] - A sophisticated text editor for code, markup and prose.
 * [XAMPP] - The most popular PHP development environment. 
@@ -56,24 +71,6 @@ E627DDBA 960A2153 69A2D98A C87C0607
 ```
 
 </details>
-
-
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][6.1]][6]
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-[1]: http://www.twitter.com/josuamarcelc
-[2]: http://www.facebook.com/JMCorp
-[3]: https://plus.google.com/+JosuaMarcelC
-[6]: http://www.github.com/josuamarcelc
-
     
    [CodeIgniter]: <https://codeigniter.com/>
    [Laravel]: <https://laravel.com/>
