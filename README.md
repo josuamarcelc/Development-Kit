@@ -6,6 +6,8 @@
 <details>
 <summary>License Key - SublimeText 3 Build 3143</summary>
 <p>
+```c
+—– BEGIN LICENSE —–
 ZYNGA INC.
 50 User License
 EA7E-811825
@@ -17,6 +19,8 @@ EA7E-811825
 E627DDBA 960A2153 69A2D98A C87C0607
 45DC6049 8C04EC29 D18DFA40 442C680B
 1342224D 44D90641 33A3B9F2 46AADB8F
+—— END LICENSE ——
+```
 </p>
 </details>
 
