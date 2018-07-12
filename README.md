@@ -50,6 +50,7 @@
 * [GrumPHP] - A PHP code-quality tool
 * [Sweet Alert] - Makes popup messages easy and pretty.
 * [UniREST] - Lightweight HTTP Request Client Libraries.
+* [FinanceChart] - a financial charting library built on top of the main ChartDirector library.
 
 
 <details>
@@ -104,3 +105,4 @@ E627DDBA 960A2153 69A2D98A C87C0607
    [BitBucket]: <https://bitbucket.org/>
    [Jenkins]: <https://jenkins.io/>
    [uniREST]: <http://unirest.io/>
+   [FinanceChart]: <http://eoffice.kemkes.go.id/eoffice_baru/ChartDirector/doc/cdphpdoc/FinanceChart.htm>
